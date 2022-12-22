@@ -1,3 +1,12 @@
-teste:
+Todo arquivo com .py é considerado um modulo python.
 
-Esse já é um teste dois
+Como executar um script python:
+python <nome_script>.py
+
+Como fazer comentarios em um código python:
+# == Para comentarios de linha unica;
+""" Comentario """ == Para comentarios de multiplas linhas. ** Esse tipo não é um comentario, o interpretador python le, mas não executa. O nome é DocString.
+
+Na programação, uma docstring é uma string literal especificada no código-fonte que é usada, como um comentário, para documentar um segmento específico de código.
+
+Tipos primitivos:
